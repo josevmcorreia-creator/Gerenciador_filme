@@ -1,0 +1,17 @@
+{
+  "name": "gerenciador_filme",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node -- watch servidor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^5.8.2",
+    "pg": "^8.20.0"
+  }
+}
